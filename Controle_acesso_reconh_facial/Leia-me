@@ -3,3 +3,5 @@ Arquivo Python realiza o reconheciemto facial e comunicação serial
 Arquivo ino contem o codigo para o ESP32
 
 Pasta Pessoas serve para alocar imagens de faces a serem reconhecidas
+
+Link para o video produzido -> https://youtu.be/5RYAwRrLkA0
